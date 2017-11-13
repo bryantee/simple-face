@@ -1,0 +1,43 @@
+.background {
+  viewport-fill: black;
+}
+
+#date {
+  font-size: 30;
+  font-family: System-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 85%;
+  y: 40;
+  fill: white;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%+40;
+  fill: white;
+}
+
+#mySteps {
+  font-size: 50;
+  font-family: System-Light;
+  text-length: 64;
+  x: 50%;
+  y: 65%;
+  text-anchor: middle;
+  fill: white;
+}
+
+#hrLabel {
+  font-size: 50;
+  font-family: System-Light;
+  text-length: 32;
+  x: 50%;
+  y: 85%;
+  text-anchor: middle;
+  fill: white;
+}

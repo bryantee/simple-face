@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "4fbd2e51-968d-4ee0-98dc-c7cd3caa3eed",
+    "appType": "clockface",
+    "appDisplayName": "STYR Watchface",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_user_profile",
+      "access_location",
+      "access_internet"
+    ],
+    "i18n": {
+      "en": {
+        "name": "STYR Watchface"
+      }
+    }
+  }
+}
