@@ -1,5 +1,5 @@
 <svg class="background">
-  <arc id="batteryCircle" x="5" y="5" width="45" height="45" fill="red"
+  <arc id="batteryCircle" x="5" y="5" width="35" height="35" fill="red"
     arc-width="5" start-angle="0" sweep-angle="360" />
   <text id="date" >Test Date </text>
   <text id="myLabel" />
